@@ -15,11 +15,11 @@ pip install -r requirement.txt
 | water-potability | 0.77 | 0.73 | 0.66 | 0.7 |
 | water-quality | 0.96 | 0.93 | 0.78 | 0.85 |
 
-## Dataset
+## Datasets
 [water-potability](https://www.kaggle.com/datasets/adityakadiwal/water-potability "kaggle_water_potability")  
 [water-quality](https://www.kaggle.com/datasets/mssmartypants/water-quality "kaggle_water_quality")
 
-## Reference
+## References
 
 [SHAP](https://arxiv.org/abs/1705.07874 "A Unified Approach to Interpreting Model Predictions")  
 [TreeSHAP](https://arxiv.org/abs/1802.03888 "Consistent Individualized Feature Attribution for Tree Ensembles")  
