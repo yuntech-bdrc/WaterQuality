@@ -2,7 +2,7 @@
 
 This study aims to classify water resources, predict their safety, and explain the trained model.
 XGBoost is used to construct the model and predict the water datasets. 
-SHAP is usued to explain the model.
+SHAP is used to explain the model.
   
     
 ![image](https://github.com/yuntech-bdrc/WaterQuality/blob/main/image/Screenshot%202024-09-22%20134306.png)
