@@ -14,8 +14,8 @@ pip install -r requirement.txt
 ```
 
 ## Performance
-| Accuracy | Accuracy | Precision | Recall | F1-score |
-| :-- | :-- | --: | --: |:--:|
+| Dataset | Accuracy | Precision | Recall | F1-score |
+| :-- | :--: | :--: | :--: | :--: |
 | water-potability | 0.77 | 0.73 | 0.66 | 0.7 |
 | water-quality | 0.96 | 0.93 | 0.78 | 0.85 |
 
